@@ -1,2 +1,2 @@
-# Django-REST-API
+# Django_REST_API
 Creating a simple API to allow admin users to view and edit users and groups in the system.
